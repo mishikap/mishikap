@@ -4,22 +4,24 @@
 
 I’m an MS Bioinformatics student at Northeastern University with a biology and bioinformatics background from the University of Waterloo. I’m interested in translational medicine and computational drug discovery, especially how genomic and molecular data can help us understand disease and identify promising therapeutic directions. My experience spans MR spectroscopy data workflows at SickKids, comparative genomics, and protein structure analysis.
 
-### 🔬 What I work with
+### 🔬 What I do
 
-- **Programming & data:** Python (NumPy, pandas, Biopython) · R · SQL/SQLite · Bash
-- **Genomics & protein analysis:** BLAST · EMBOSS CUSP · tRNAscan-SE · Clustal Omega/MUSCLE · Jalview · ChimeraX · PyMOL
-- **Workflows & imaging:** Nextflow · Snakemake · Git · CellProfiler · Docker · LCModel · Linux/Unix 
-- **Visualization:** Matplotlib · Seaborn · ggplot2
-- **Biological analysis:** comparative genomics, sequence alignment, protein structure, biological imaging
+- **Compare biological sequences and structures:** Investigate codon usage across organisms and conservation in trypsin-like serine proteases.
+- **Build research data tools:** Developed a local MR spectroscopy prototype to explore LCModel outputs, metabolite measurements, and quality-control data using Python and SQLite.
+- **Analyze biological images:** Used Python and CellProfiler to quantify phenotypes from microscopy images.
 
-
-### 🛠️ Tools at a glance
+### 🛠️ What I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+- **Programming & data:** Python (NumPy, pandas, Biopython) · R · SQL/SQLite · Bash
+- **Genomics & protein analysis:** BLAST · EMBOSS CUSP · tRNAscan-SE · Clustal Omega/MUSCLE · Jalview · ChimeraX · PyMOL
+- **Workflows & imaging:** Nextflow · Snakemake · Git · CellProfiler · Docker · LCModel · Linux/Unix 
+- **Visualization:** Matplotlib · Seaborn · ggplot2
 
 ### 📌 Selected projects
 
