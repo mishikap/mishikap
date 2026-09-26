@@ -1,6 +1,6 @@
 # Hi, I'm Mishika 👋
 
-**🧬MS Bioinformatics @ Northeastern University · Biology + Bioinformatics @ University of Waterloo · Former Research Assistant @ SickKids**
+### **🧬MS Bioinformatics @ Northeastern University · Biology + Bioinformatics @ University of Waterloo · Former Research Assistant @ SickKids**
 
 I’m an MS Bioinformatics student at Northeastern University with a biology and bioinformatics background from the University of Waterloo. I’m interested in translational medicine and computational drug discovery, especially how genomic and molecular data can help us understand disease and identify promising therapeutic directions. My experience spans MR spectroscopy data workflows at SickKids, comparative genomics, and protein structure analysis.
 
